@@ -46,9 +46,12 @@
 
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
 
-<p align="left" >&nbsp;<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=hamzaezzzat&show_icons=true&theme=blueberry&hide_border=true" alt="hamzaezzzat" /></p>
+<p align="left" >&nbsp;
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=hamzaezzzat&show_icons=true&theme=blueberry&hide_border=true" alt="hamzaezzzat" />
+<img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaezzzat&theme=blueberry&hide_border=true" alt="hamzaezzzat" />
+</p>
 
-<p align="right"><img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaezzzat&theme=blueberry&hide_border=true" alt="hamzaezzzat" />
+<p align="right">
 <p  align="center">
 <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaezzzat&show_icons=true&&theme=blueberry&hide_border=true" alt="hamzaezzzat" /></p>
 
