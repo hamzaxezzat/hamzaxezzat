@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hamza Ezzat</h1>
-<h3 align="center">A passionate frontend developer in Germany</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 [![Linkedin:Hamzaezzat](https://img.shields.io/badge/-Hamza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamzaezzat/)](https://www.linkedin.com/in/hamzaezzat/)
 [![Instagram:Hamza](https://img.shields.io/badge/-Hamza-red?style=flat-square&logo=instagram&logoColor=white&link=http://instagram.com/hamzaezzat/)](http://instagram.com/hamzaezzat/)
 [![Facebook:Hamza](https://img.shields.io/badge/-Hamza-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hamza.ezzat12)](https://www.facebook.com/hamza.ezzat12/)
+
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png)
+
+## 👨🏻‍💻 &nbsp;About Me
+
+## I'm a Frontend Developer !!
 
 -   🔭 I’m currently working on **E-Commerce Project**
 
