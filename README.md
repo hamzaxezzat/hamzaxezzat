@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hamza Ezzat</h1>
 <h3 align="center">A passionate frontend developer in Germany</h3>
 
-[![Linkedin:Hamzaezzat](https://img.shields.io/badge/-Yassin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamzaezzat/)](https://www.linkedin.com/in/hamzaezzat/)
-[![Instagram:Hamza](https://img.shields.io/badge/-Yassin-red?style=flat-square&logo=instagram&logoColor=white&link=http://instagram.com/hamzaezzat/)](http://instagram.com/hamzaezzat/)
-[![Facebook:Yassin](https://img.shields.io/badge/-Yassin-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hamza.ezzat12)](https://www.facebook.com/hamza.ezzat12/)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=Yassin522&color=brightgreen">
+[![Linkedin:Hamzaezzat](https://img.shields.io/badge/-Hamza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamzaezzat/)](https://www.linkedin.com/in/hamzaezzat/)
+[![Instagram:Hamza](https://img.shields.io/badge/-Hamza-red?style=flat-square&logo=instagram&logoColor=white&link=http://instagram.com/hamzaezzat/)](http://instagram.com/hamzaezzat/)
+[![Facebook:Hamza](https://img.shields.io/badge/-Hamza-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hamza.ezzat12)](https://www.facebook.com/hamza.ezzat12/)
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=Hamza522&color=brightgreen">
 
 -   🔭 I’m currently working on **E-Commerce Project**
 
@@ -43,13 +43,13 @@
 
 </p>
 
-<p>
 ## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaezzzat&show_icons=true&locale=en&layout=compact" alt="hamzaezzzat" /></p>
+![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzaezzzat&show_icons=true&locale=en" alt="hamzaezzzat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaezzzat&" alt="hamzaezzzat" />
+<p  align="left">
+<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaezzzat&show_icons=true&locale=en&layout=compact" alt="hamzaezzzat" /></p>
+<p align="right"><img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaezzzat&" alt="hamzaezzzat" />
 </p>
