@@ -52,5 +52,5 @@
 </p><br>
 
 <p align="center">
-<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaezzzat&show_icons=true&&theme=blueberry&hide_border=true" alt="hamzaezzzat" />
+<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaezzzat&show_icons=true&theme=blueberry&hide_border=true&locale=en&layout=compact" alt="hamzaezzzat" />
 </p>
