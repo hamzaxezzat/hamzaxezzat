@@ -3,9 +3,9 @@
 <a align="center">hamzaezzat.com</a>
 
 [![Linkedin:Hamzaezzat](https://img.shields.io/badge/-Hamza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamzaezzat/)](https://www.linkedin.com/in/hamzaezzat/)
-[![Instagram:Hamza](https://img.shields.io/badge/-Hamza-red?style=flat-square&logo=instagram&logoColor=white&link=http://instagram.com/hamzaezzat/)](http://instagram.com/hamzaezzat/)
+<!-- [![Instagram:Hamza](https://img.shields.io/badge/-Hamza-red?style=flat-square&logo=instagram&logoColor=white&link=http://instagram.com/hamzaezzat/)](http://instagram.com/hamzaezzat/)
 [![Facebook:Hamza](https://img.shields.io/badge/-Hamza-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hamza.ezzat12)](https://www.facebook.com/hamza.ezzat12/)
-
+ -->
 ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png)
 
 ## 👨🏻‍💻 &nbsp;About Me
@@ -29,7 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hamzaezzat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamzaezzat" height="30" width="40" /></a>
-<a href = "mailto: hamzaxezzat@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="hamzaezzat" height="30" width="40" /></a>
+<!-- <a href = "mailto: hamzaxezzat@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="hamzaezzat" height="30" width="40" /></a> -->
 <a href="https://www.behance.net/hamzaezzat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hamzaezzat" height="30" width="40" /></a>
 </p>
 
@@ -53,7 +53,7 @@
 ## Watch my contributions get eaten by a snake 🐍
 
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
-
+<!-- 
 <p align="left" >&nbsp;
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamzaezzzat&show_icons=true&theme=blueberry&hide_border=true" alt="hamzaezzzat" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaezzzat&theme=blueberry&hide_border=true" alt="hamzaezzzat" />
@@ -61,4 +61,4 @@
 
 <p align="center">
 <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaezzzat&show_icons=true&theme=blueberry&hide_border=true&locale=en&layout=compact" alt="hamzaezzzat" />
-</p>
+</p> -->
