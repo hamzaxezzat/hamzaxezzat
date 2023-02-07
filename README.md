@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Ezzat</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">[Personal Site](https://hamzaezzat.com/)</h3>
 
-
-[Personal Site](https://hamzaezzat.com/)
 [![Linkedin:Hamzaezzat](https://img.shields.io/badge/-Hamza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamzaezzat/)](https://www.linkedin.com/in/hamzaezzat/)
 <!-- [![Instagram:Hamza](https://img.shields.io/badge/-Hamza-red?style=flat-square&logo=instagram&logoColor=white&link=http://instagram.com/hamzaezzat/)](http://instagram.com/hamzaezzat/)
 [![Facebook:Hamza](https://img.shields.io/badge/-Hamza-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hamza.ezzat12)](https://www.facebook.com/hamza.ezzat12/)
