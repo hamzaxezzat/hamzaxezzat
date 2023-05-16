@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza Ezzat</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<h3 align="center"><a href="https://hamzaezzat.com/">Personal Site</a></h3>
+<!-- <h3 align="center"><a href="https://hamzaezzat.com/">Personal Site</a></h3> -->
 
 [![Linkedin:Hamzaezzat](https://img.shields.io/badge/-Hamza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamzaezzat/)](https://www.linkedin.com/in/hamzaezzat/)
 <!-- [![Instagram:Hamza](https://img.shields.io/badge/-Hamza-red?style=flat-square&logo=instagram&logoColor=white&link=http://instagram.com/hamzaezzat/)](http://instagram.com/hamzaezzat/)
@@ -20,7 +20,7 @@
 
 -   🤝 I’m looking for help with **frontend opportunity**
 
--   👨‍💻 All of my projects are available at [hamzaezzat.com](hamzaezzat.com)
+<!-- -   👨‍💻 All of my projects are available at [hamzaezzat.com](hamzaezzat.com) -->
 
 -   💬 Ask me about **Frontend & Graphics**
 
