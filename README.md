@@ -12,7 +12,7 @@
 
 ## I'm a Frontend Developer !!
 
--   🔭 I’m currently working on **"Do You Need To Talk?" App**
+-   🔭 I’m currently working on **"Alleda?" App**
 
 -   🌱 I’m currently learning **reactJs & Redux**
 
